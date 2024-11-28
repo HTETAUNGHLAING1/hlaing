@@ -1,0 +1,15 @@
+// export const app=document.querySelector("#app");
+export const catagoriesTemplate=document.querySelector("#catagoriesTemplate");
+export const buttonUi=document.querySelector("#buttonUi");
+export const productUi=document.querySelector("#productUi");
+export const productTemplate=document.querySelector("#productTemplate");
+export const but=document.querySelector(".but");
+export const inven=document.querySelector("#inventorySheet");
+export const iv=document.querySelector(".inventoryCloseBtn");
+export const cartTemplate=document.querySelector("#cartTemplate");
+export const cartCount1=document.querySelector(".cartCount1");
+export const cartCount2=document.querySelector(".cartCount2");
+export const totalCount=document.querySelector(".totalCount");
+export const cartItemGroup=document.querySelector("#cartItemGroup");
+export const opendrawer=document.querySelector("#opendrawer");
+// export const buttonCart=document.querySelector(".buttonCart");
